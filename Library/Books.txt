@@ -1,0 +1,6 @@
+1,To Kill a Mockingbird,Harper Lee,Fiction,Available,
+2,1984,George Orwell,Dystopian,Unavailable,
+3,The Great Gatsby,F. Scott Fitzgerald,Fiction,Unavailable,
+4,The Catcher in the Rye,J.D. Salinger,Fiction,Available,
+5,The Hobbit,J.R.R. Tolkien,Fantasy,Available,
+
